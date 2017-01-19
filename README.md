@@ -1,5 +1,5 @@
 # AdvancedWidget3
-![aw3](https://cloud.githubusercontent.com/assets/22464643/22095690/cb7e7ae0-ddcb-11e6-892e-c057145c7ae9.jpg) <br>
+![aw2](https://cloud.githubusercontent.com/assets/22464643/22095820/a01517fa-ddcc-11e6-9fa7-afc7612f5f10.jpg) <br>
 Nama : Andini Novidayanti Ardiningrum<br>
 Kelas : XI Rpl 3<br>
 No Urut : 03<br>
